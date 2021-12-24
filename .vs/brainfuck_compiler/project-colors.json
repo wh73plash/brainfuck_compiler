@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed83ded1-997c-4482-b704-ea698797b742": {
+      "ProjectGuid": "ed83ded1-997c-4482-b704-ea698797b742",
+      "DisplayName": "brainfuck_compiler",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
