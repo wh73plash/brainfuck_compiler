@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="brainfuck_compiler.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TraceManager.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
