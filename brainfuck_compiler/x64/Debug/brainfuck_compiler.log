@@ -1,3 +1,0 @@
-﻿  brainfuck_compiler.cpp
-C:\Users\avent\source\repos\brainfuck_compiler\brainfuck_compiler\brainfuck_compiler.cpp(27): warning C4715: 'source_read': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  brainfuck_compiler.vcxproj -> C:\Users\avent\source\repos\brainfuck_compiler\x64\Debug\brainfuck_compiler.exe
